@@ -1,1 +1,5 @@
+run a test app
+--------------
 
+$ cd libevent-learning
+$ LD_LIBRARY_PATH=../libevent-2.1.8-stable-libs/lib ./ev_timer
